@@ -25,3 +25,8 @@ If you want to know more about me and my contributions, check out the projects I
 <p align="center">
   <a href="https://www.freecodecamp.org/certification/ahmed_maki/javascript-algorithms-and-data-structures" target="_blank">Certificate Link</a>
 </p>
+
+My VS Code Extensions 🛠️
+I also publish useful extensions for Visual Studio Code to improve the development workflow. Feel free to check them out on the Visual Studio Marketplace!
+
+<p align="center"> <a href="https://marketplace.visualstudio.com/publishers/ahmed-maki" target="_blank">View My Extensions</a> </p>
