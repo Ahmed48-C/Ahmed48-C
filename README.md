@@ -7,7 +7,6 @@ My name is Ahmed and I am a self-taught programmer specializing in Django and Re
 If you want to know more about me and my contributions, check out the projects I've worked on below. I am excited to share my journey and look forward to interacting with others who share my passion for coding and innovation.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed48-C&theme=tokyonight&layout=compact&hide=procfile) 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed48-C&show_icons=true&theme=tokyonight&layout=compact)
 
 ## Certificates & Achievements:
 
