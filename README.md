@@ -22,7 +22,7 @@ If you want to know more about me and my contributions, check out the projects I
 ### FreeCodeCamp JavaScript Algorithms and Data Structures
 
 <p align="center">
-  <img src="https://github.com/Ahmed48-C/Ahmed48-C/blob/main/FreeCodeCamp02.png" width="500px" alt="FreeCodeCamp JavaScript Algorithms and Data Structures"/>
+  <img src="https://github.com/Ahmed48-C/Ahmed48-C/blob/main/image2.png" width="500px" alt="FreeCodeCamp JavaScript Algorithms and Data Structures"/>
 </p>
 <p align="center">
   <a href="https://www.freecodecamp.org/certification/ahmed_makki1/javascript-algorithms-and-data-structures" target="_blank">Certificate Link</a>
