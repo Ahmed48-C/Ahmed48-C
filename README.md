@@ -2,7 +2,7 @@
 
 ## About Me 👤
 
-My name is Ahmed and I am a self-taught programmer specializing in Django and React. Currently, I am fully immersed in software development, working as a developer on a SaaS accounting system. I am passionate about researching and continuously using new technologies, always eager to learn and adapt.
+My name is Ahmed and I am a self-taught programmer specializing in Django, React and Next JS. Currently, I am fully immersed in software development, working as a developer on a SaaS accounting system. I am passionate about researching and continuously using new technologies, always eager to learn and adapt.
 
 If you want to know more about me and my contributions, check out the projects I've worked on below. I am excited to share my journey and look forward to interacting with others who share my passion for coding and innovation.
 
