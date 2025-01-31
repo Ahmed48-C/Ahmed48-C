@@ -10,15 +10,6 @@ If you want to know more about me and my contributions, check out the projects I
 
 ## Certificates & Achievements:
 
-### Great Learning React Course
-
-<p align="center">
-  <img src="https://github.com/Ahmed48-C/Ahmed48-C/blob/main/GreatLearning.png" width="500px" alt="Great Learning React Course"/>
-</p>
-<p align="center">
-  <a href="https://www.mygreatlearning.com/certificate/PNYPNHZO" target="_blank">Certificate Link</a>
-</p>
-
 ### FreeCodeCamp JavaScript Algorithms and Data Structures
 
 <p align="center">
@@ -26,6 +17,12 @@ If you want to know more about me and my contributions, check out the projects I
 </p>
 <p align="center">
   <a href="https://www.freecodecamp.org/certification/ahmed_makki1/javascript-algorithms-and-data-structures" target="_blank">Certificate Link</a>
+</p>
+
+### Great Learning React Course
+
+<p align="center">
+  <a href="https://www.mygreatlearning.com/certificate/PNYPNHZO" target="_blank">React Course</a>
 </p>
 
 My VS Code Extensions 🛠️
