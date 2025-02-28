@@ -2,9 +2,7 @@
 
 ## About Me 👤
 
-My name is Ahmed and I am a self-taught programmer specializing in Django, React and Next JS. Currently, I am fully immersed in software development, working as a developer on SaaS. I am passionate about researching and continuously using new technologies, always eager to learn and adapt.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed48-C&theme=tokyonight&layout=compact&hide=procfile) 
+My name is Ahmed and I am a programmer specializing in Django, React and Next JS. Currently, I am fully immersed in software development, working as a developer on SaaS. I am passionate about researching and continuously using new technologies, always eager to learn and adapt.
 
 ## LitFlip
 
