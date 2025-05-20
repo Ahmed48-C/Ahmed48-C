@@ -20,18 +20,6 @@ LitFlip is a SaaS platform that lets users import their PDF books and read them 
   <img src="https://github.com/Ahmed48-C/Ahmed48-C/blob/main/logo-transparent.png?raw=true" width="200px" alt="LitFlip Logo"/>
 </p>
 
-### LitFlip
-
-LitFlip is a SaaS platform that lets users import their PDF books and read them in a realistic, immersive flip-book style interface. It aims to bring the joy of reading physical books into the digital age.
-
-- **Key Features**:
-  - Realistic Book Interface: Import your PDFs and read them in a flip-book style that mimics real-life reading.
-  - Audio Support: Sync MP3s or audio files to listen while you read, perfect for multitasking or enhancing immersion.
-  - Reading Analytics: Track your progress, time spent, and reading habits to help you achieve your reading goals.
-  - Personalized Experience: Customize your reading environment with backgrounds that match your mood and style.
-
-- **Try It Out**: [LitFlip Website](https://www.litflip.app/)
-
 ## Certificates & Achievements:
 
 ### FreeCodeCamp JavaScript Algorithms and Data Structures
