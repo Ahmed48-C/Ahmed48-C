@@ -20,23 +20,6 @@ LitFlip is a SaaS platform that lets users import their PDF books and read them 
   <img src="https://github.com/Ahmed48-C/Ahmed48-C/blob/main/logo-transparent.png?raw=true" width="200px" alt="LitFlip Logo"/>
 </p>
 
-## Certificates & Achievements:
-
-### FreeCodeCamp JavaScript Algorithms and Data Structures
-
-<p align="center">
-  <img src="https://github.com/Ahmed48-C/Ahmed48-C/blob/main/image2.png" width="500px" alt="FreeCodeCamp JavaScript Algorithms and Data Structures"/>
-</p>
-<p align="center">
-  <a href="https://www.freecodecamp.org/certification/ahmed_makki1/javascript-algorithms-and-data-structures" target="_blank">Certificate Link</a>
-</p>
-
-### Great Learning React Course
-
-<p align="center">
-  <a href="https://www.mygreatlearning.com/certificate/PNYPNHZO" target="_blank">React Course</a>
-</p>
-
 My VS Code Extensions 🛠️
 I also publish useful extensions for Visual Studio Code to improve the development workflow. Feel free to check them out on the Visual Studio Marketplace!
 
