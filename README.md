@@ -18,11 +18,6 @@ LitFlip is a SaaS platform that lets users import their PDF books and read them 
   <img src="https://github.com/Ahmed48-C/Ahmed48-C/blob/main/logo-transparent.png?raw=true" width="200px" alt="LitFlip Logo"/>
 </p>
 
-My VS Code Extensions 🛠️
-I also publish useful extensions for Visual Studio Code to improve the development workflow. Feel free to check them out on the Visual Studio Marketplace!
-
-<p align="center"> <a href="https://marketplace.visualstudio.com/publishers/ahmed-maki" target="_blank">View My Extensions</a> </p>
-
 ### 🌟 Featured Project: Accounting System
 
 #### Backend
