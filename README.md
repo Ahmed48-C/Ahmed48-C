@@ -54,5 +54,3 @@ A modern, enterprise-grade Accounting frontend application built with React and 
 - 🎯 Rich interactive features (DnD, Rich Text Editor, Calendar)
 
 [View Frontend →](https://github.com/Ahmed48-C/saas-system-frontend)
-
-This combined presentation highlights both the backend and frontend aspects of your SaaS System project, providing a comprehensive overview of its capabilities and technologies used.
