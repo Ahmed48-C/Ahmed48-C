@@ -1,6 +1,6 @@
 ## About Me 👤
 
-My name is Ahmed and I am a programmer specializing in Django, React and Next JS. Currently, I am fully immersed in software development, working as a developer on SaaS. I am passionate about researching and continuously using new technologies, always eager to learn and adapt.
+Full-stack developer with 3+ years of experience in React, Next.js, and Django. Founder of LitFlip, a live SaaS platform. Skilled in building scalable apps, REST APIs, auth systems, and performance-focused UIs.
 
 ## LitFlip
 
