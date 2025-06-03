@@ -51,6 +51,5 @@ A modern, enterprise-grade Accounting frontend application built with React and 
 - 📊 Advanced data visualization with ApexCharts & Chart.js
 - 🔒 Secure authentication system
 - 📱 Fully responsive design
-- 🎯 Rich interactive features (DnD, Rich Text Editor, Calendar)
 
 [View Frontend →](https://github.com/Ahmed48-C/saas-system-frontend)
